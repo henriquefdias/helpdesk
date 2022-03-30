@@ -25,4 +25,14 @@ public class JWTUtil {
 				.compact();
 	}
 
+	public boolean tokenValido(String token) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public String getUsername(String token) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
